@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Mutazlab
+# 👋 Hi, I’m MUTAZ TAILAKH  @Mutazlab
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mutazlab&color=orange)
 ![GitHub followers](https://img.shields.io/github/followers/Mutazlab?style=social)
